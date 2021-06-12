@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="eng"> 
+<title>training</title> 
+<body>
+<p><font size="10" color="blue"><u>welcome</u>:</font></p>
+</body>
+</html>
